@@ -1,0 +1,10 @@
+ 2017  ./REFRESH.sh 
+ 2018  psql sailspg
+ 2019  ./REFRESH.sh 
+ 2020  psql sailspg
+ 2021  ./REFRESH.sh 
+ 2022  psql sailspg
+ 2023  ./REFRESH.sh 
+ 2024  psql sailspg
+ 2025  ./REFRESH.sh 
+ 2026  history | tail > term1.tail
